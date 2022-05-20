@@ -176,6 +176,16 @@ CONFIG:
       buildType: MinSizeRel
       settings:
         CONFIG: emlid_navio2_default
+    evolvedynamics_nano_default:
+      short: evolvedynamics_nano
+      buildType: MinSizeRel
+      settings:
+        CONFIG: evolvedynamics_nano_default
+    evolvedynamics_nano_bootloader:
+      short: evolvedynamics_nano
+      buildType: MinSizeRel
+      settings:
+        CONFIG: evolvedynamics_nano_bootloader
     freefly_can-rtk-gps_default:
       short: freefly_can-rtk-gps_default
       buildType: MinSizeRel
