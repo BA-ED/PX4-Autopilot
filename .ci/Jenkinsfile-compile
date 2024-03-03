@@ -58,6 +58,7 @@ pipeline {
                      "cubepilot_cubeorangeplus_default",
                      "cubepilot_cubeyellow_default",
                      "diatone_mamba-f405-mk2_default",
+                     "evolvedynamics_asb_sm_default",
                      "flywoo_gn-f405_default",
                      "freefly_can-rtk-gps_canbootloader",
                      "freefly_can-rtk-gps_default",

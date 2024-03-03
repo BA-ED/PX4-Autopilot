@@ -326,3 +326,13 @@ CONFIG:
       buildType: MinSizeRel
       settings:
         CONFIG: raspberrypi_pico_default
+    ed_asbsm_default:
+      short: ed_asbsm
+      buildType: MinSizeRel
+      settings:
+        CONFIG: ed_asbsm_default
+    ed_asbsm_bootloader:
+      short: ed_asbsm
+      buildType: MinSizeRel
+      settings:
+        CONFIG: ed_asbsm_bootloader
